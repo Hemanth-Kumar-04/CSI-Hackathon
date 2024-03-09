@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+![1](https://github.com/Hemanth-Kumar-04/CSI-Hackathon/assets/141851221/1a413460-ee9b-45a0-9d4a-fcff8055bbdf)
+![2](https://github.com/Hemanth-Kumar-04/CSI-Hackathon/assets/141851221/5fbc48b4-5ac9-4608-86d0-a639ac4436ca)
+![3](https://github.com/Hemanth-Kumar-04/CSI-Hackathon/assets/141851221/de4c35a9-e5da-48ac-9db5-4eb7e701267c)
+![4](https://github.com/Hemanth-Kumar-04/CSI-Hackathon/assets/141851221/58a12672-c7de-4630-9d92-aae9bfab8e1c)
+![5](https://github.com/Hemanth-Kumar-04/CSI-Hackathon/assets/141851221/87f7ef58-ebc2-4ee8-989c-5add5ddd2ad2)
+![6](https://github.com/Hemanth-Kumar-04/CSI-Hackathon/assets/141851221/a6939946-b52f-4d29-b375-734c8f239e96)
+![7](https://github.com/Hemanth-Kumar-04/CSI-Hackathon/assets/141851221/7b7f5804-9da1-4018-937f-3581b9f824a7)
+![8](https://github.com/Hemanth-Kumar-04/CSI-Hackathon/assets/141851221/719bade6-c3e3-4a90-8680-b0abb5a7bb27)
+![9](https://github.com/Hemanth-Kumar-04/CSI-Hackathon/assets/141851221/d2d74d03-68a0-4ec0-9bb4-bc4ea412bede)
+![10](https://github.com/Hemanth-Kumar-04/CSI-Hackathon/assets/141851221/26fb9c6e-5ffa-4193-b27a-a6b39af51307)
+
+
+
+
+
+
+
+
+
